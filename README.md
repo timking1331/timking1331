@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My GitHub Journey
+- **Started Open Source**: January 2018
+- **First Major Project**: March 2020
+- **Joined GitHub**: April 2017
